@@ -1,0 +1,47 @@
+{
+  "brand_id": "CA",
+  "name": "CONTXT AHEAD",
+  "repository": "https://github.com/worksomaganesh/contxtahead",
+  "language": "English",
+  "market": "Global",
+  "category": "Technology intelligence and future-of-work media",
+  "tagline": "Understand the shift. Prepare for what's next.",
+  "mission": "Make technological change understandable by connecting important developments with their wider industry, career, skill, education, and opportunity implications.",
+  "vision": "Become a trusted global publication that helps the next generation navigate a changing technology landscape with context, evidence, and better-informed decisions.",
+  "core_question": "Why does this development matter, what does it connect to, who may be affected, and what should our audience understand next?",
+  "primary_audience": [
+    "Technology students",
+    "Recent graduates",
+    "Early-career technology professionals"
+  ],
+  "secondary_audience": [
+    "Working professionals navigating AI-related changes in their occupations"
+  ],
+  "format": {
+    "faceless": true,
+    "human_on_camera_presenter": false,
+    "realistic_ai_human_presenter": false,
+    "primary_narration": "Creator-recorded voice",
+    "publishing_language": "English"
+  },
+  "editorial_pillars": [
+    {"name": "The Technology Shift", "allocation_percent": 25},
+    {"name": "The Future of Work", "allocation_percent": 25},
+    {"name": "Skills Ahead", "allocation_percent": 20},
+    {"name": "Opportunity Radar", "allocation_percent": 15},
+    {"name": "The Learning Shift", "allocation_percent": 15}
+  ],
+  "production": {
+    "primary_editor": "DaVinci Resolve",
+    "research_and_knowledge": ["Gemini", "Google Search", "Google Trends", "Gemini Notebook or NotebookLM", "Google Drive"],
+    "video_generation": "Google Flow as an optional supporting asset provider",
+    "motion_graphics": ["Remotion", "original HTML/CSS/GSAP", "SVG"],
+    "media_validation": ["FFmpeg", "ffprobe"],
+    "screen_recording": "OBS Studio",
+    "human_approval_required": true
+  },
+  "shared_operating_system": "https://github.com/worksomaganesh/Creator-OS",
+  "content_id_prefix": "CA",
+  "positioning_status": "Approved strategic baseline; audience and formats continue to be validated through publishing experiments",
+  "visual_identity_status": "Editorial direction approved; exact logo, typography, palette, and motion tokens remain to be validated"
+}

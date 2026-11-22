@@ -1,235 +1,220 @@
-# ContextAhead
+# CONTXT AHEAD
 
-> Understand the context. Connect the signals. See what may come next.
+> Understand the shift. Prepare for what's next.
 
-## Vision
+**CONTXT AHEAD** is a global, faceless technology-intelligence and future-of-work publication. It helps technology students, recent graduates, and early-career professionals understand how technological changes reshape industries, work, skills, education, and opportunities.
 
-ContextAhead is intended to be a technology-intelligence and context-explaining media brand. Its purpose is not simply to repeat technology headlines. It should help people understand what happened, what led to it, why it matters, how it connects to wider developments, who may be affected, and what could plausibly happen next.
+This repository is the brand-specific source of truth. The shared operating system is [Creator-OS](https://github.com/worksomaganesh/Creator-OS).
 
-The headline alone rarely gives people enough information to understand significance. ContextAhead aims to provide the missing layer between information and understanding: history, technical foundations, incentives, competitive environment, economic effects, stakeholders, and possible implications.
+## 1. The brand
 
-The long-term ambition is a recognisable, trusted technology-intelligence publication with research discipline, clear visual storytelling, and thoughtful analysis.
+### Mission
+Make technological change understandable by connecting important developments with their wider industry, career, skill, education, and opportunity implications.
 
-## Positioning
+### Vision
+Become a trusted global publication that helps the next generation navigate a changing technology landscape with context, evidence, and better-informed decisions.
 
-- **Category:** Technology intelligence, analysis, and explanatory media.
-- **Core promise:** Give people the context needed to understand important technology developments and their implications.
-- **Editorial question:** Why does this development matter, what does it connect to, and what might it change?
-- **Personality:** Intelligent, analytical, composed, curious, forward-looking, and evidence-conscious.
+### Core editorial question
+**Why does this development matter, what does it connect to, who may be affected, and what should our audience understand next?**
 
-Potential audiences include technology-curious students and professionals, people following AI and the technology industry, builders and founders, and viewers who want more than headlines but do not have time to read multiple reports. The exact primary audience and platform priorities remain to be validated.
+### Editorial philosophy
+- Context over headlines.
+- Evidence over hype.
+- Preparation over fear.
+- Curiosity before assumptions.
+- Education through meaningful stories.
 
-## What ContextAhead is—and is not
+### Format and identity
+- Fully faceless.
+- No human on-camera presenter.
+- No realistic AI-human presenter as the brand's default face.
+- English-language publishing for a global audience.
+- Creator-recorded voice is the preferred primary narration.
+- Motion graphics, kinetic typography, data visualisations, timelines, diagrams, screen recordings, and selective cinematic visuals.
+- DaVinci Resolve is the finishing editor.
+- Google Flow is an optional supporting visual provider, not a hard renderer dependency.
 
-ContextAhead is context-first, interested in relationships between events, incentives, technology, markets, and people. It creates explainers, analysis, timelines, research briefings, and scenario exploration. It distinguishes reported facts, interpretation, forecasts, and speculation.
+The stylised spelling **CONTXT AHEAD** is intentional. Use it consistently in new brand materials. The repository slug remains contxtahead.
 
-It is not a generic technology-news repost account, a stream of unverified predictions, or a duplicate of TECHENIGMASTUDIOS' technical education and AI That Works' hands-on implementation content.
+## 2. Brand separation
 
-## Content pillars
+The three brands share operating infrastructure, not editorial identity.
 
-These are current proposed pillars; validate their priority through research.
+| Brand | Core question | Audience outcome |
+|---|---|---|
+| TECHENIGMASTUDIOS | What is this technology, how does it work, and how can I learn it? | Technical understanding |
+| AI That Works | What practical problem can AI solve, and how does the implementation perform? | Practical capability |
+| CONTXT AHEAD | Why does this development matter, what may change, and what should people understand next? | Context and better-informed decisions |
 
-1. **Technology signals and developments** — significant releases, decisions, research, policy, and industry changes.
-2. **AI industry landscape** — model providers, infrastructure, compute, applications, competition, economics, and ecosystem shifts.
-3. **Company and product strategy** — strategic decisions, product direction, partnerships, business models, competitive moves, and incentives.
-4. **Explainers and missing context** — history, technical or market context, timelines, and details needed to understand a headline.
-5. **Industry and societal implications** — implications for software, business, work, education, creators, security, and society.
-6. **What happens next** — scenario analysis, signals to monitor, possible outcomes, and explicit uncertainty.
-7. **Research briefings and deep dives** — synthesis of primary sources, reports, papers, and multiple perspectives.
+For example, with AI coding agents:
+- TECHENIGMASTUDIOS explains agent concepts, architecture, tools, and evaluation.
+- AI That Works builds and tests an agent in a defined workflow.
+- CONTXT AHEAD investigates implications for engineering work, hiring, software economics, and early-career responsibilities.
 
-Each story needs a reason to exist and a meaningful audience payoff. Do not cover everything simply because it is trending.
+Never recycle one script into superficial variations. Every brand needs its own audience question, evidence, narrative, and payoff.
 
-## Editorial method: context before conclusion
+## 3. Editorial architecture
 
-A ContextAhead piece should follow a disciplined reasoning process:
+The five starting pillars and allocation are:
 
-1. **Event:** establish what happened and when.
-2. **Background:** explain the history and conditions that led to it.
-3. **Mechanism:** describe the relevant technical, commercial, or institutional mechanism.
-4. **Stakeholders:** identify who is involved and their incentives.
-5. **Evidence:** compare primary sources and credible independent reporting.
-6. **Interpretation:** explain what the evidence suggests, labelling analysis.
-7. **Implications:** discuss who or what may be affected and through which mechanisms.
-8. **Scenarios:** where useful, outline plausible paths and signals that would support or weaken them.
-9. **Uncertainty:** state what is not known and what could change the conclusion.
+| Pillar | Allocation | Editorial job |
+|---|---:|---|
+| The Technology Shift | 25% | Explain important technology and industry developments |
+| The Future of Work | 25% | Investigate changing occupations and responsibilities |
+| Skills Ahead | 20% | Explain changing capabilities and employer expectations |
+| Opportunity Radar | 15% | Investigate emerging roles, sectors, and opportunities |
+| The Learning Shift | 15% | Explore education, credentials, and learning |
 
-Do not force every story into a prediction. Sometimes the most useful conclusion is that the evidence is incomplete.
+The allocation is a starting hypothesis. Review it after the first 8–12 published videos and refine the balance using research evidence, audience response, and production feasibility. Do not change the brand's core niche merely because a broad topic is competitive; improve the question, angle, evidence, and storytelling.
 
-## Research and source discipline
+Recurring series:
+- THE SIGNAL
+- CAREERS IN TRANSITION
+- SKILLS AHEAD
+- OPPORTUNITY RADAR
+- MYTH VS EVIDENCE
+- THE LEARNING SHIFT
+- BEYOND THE HEADLINE
 
-Prefer primary announcements, official documentation, filings, policy documents, original research papers, and technical reports for direct claims. Use reputable independent reporting for verification, context, and additional perspectives. Use multiple sources for consequential or disputed claims.
+See [Editorial Architecture](content/editorial-architecture.md).
 
-For each source, record its title, publisher, author or organisation, URL, publication and access dates, source type, claims supported, relevant notes, reliability caveats, and possible conflicts of interest.
+## 4. Market and competitive research
 
-Keep event dates distinct from article publication dates. A press release is evidence of what an organisation announced, not independent verification of every claim it makes.
+Our opportunity thesis is to serve people who need more than headlines or tutorials: they want to understand the implications of technology for industries, careers, skills, education, and opportunity.
 
-Separate content statements into:
-- **Fact:** directly supported by reliable evidence.
-- **Attributed claim:** what a named person or organisation says.
-- **Analysis:** interpretation based on stated evidence.
-- **Scenario:** a plausible conditional future.
-- **Speculation:** uncertain possibility, labelled clearly or excluded.
+This is a hypothesis to validate, not a claim that the market is uncontested.
 
-## Formats and storytelling
+The five-source research system:
+1. Google Trends — search-interest signals.
+2. YouTube Search — video supply, packaging, and unanswered viewer questions.
+3. Google Search — question discovery and primary evidence.
+4. Reddit and specialist communities — recurring audience pain points and language.
+5. YouTube Studio — first-party audience learning after publication.
 
-Potential formats include context-rich short explainers, long-form technology and industry analysis, event timelines, company/product strategy breakdowns, research-paper explainers, market maps, ecosystem diagrams, data-led stories, “what this means” briefings, and editorial carousels.
+The **Context Opportunity Score (COS)** ranks candidate topics using demand strength (25), competitive gap (25), audience relevance (20), storytelling potential (15), evidence availability (10), and long-term value (5).
 
-Make relationships visible through timelines, maps, charts, system diagrams, comparisons, annotated screenshots, and purposeful motion graphics. Do not compress a complex subject into an overconfident 30-second conclusion. Short-form can introduce one important insight; longer formats can carry the full context.
+A high score never overrides evidence, rights, or human approval gates.
 
-The final presenter/face format and narration mix have not been permanently decided. Test formats rather than assuming a decision.
+Start here:
+- [Market Opportunity](research/market-opportunity.md)
+- [Competitive Intelligence System](research/competitive-intelligence-system.md)
+- [Opportunity Scoring Model](research/opportunity-scoring.md)
 
-## Visual identity
+## 5. Production architecture
 
-**Leading proposal—not yet locked:**
-- Intelligence violet: #7657FF.
-- Midnight base: #151426.
-- Pale lavender: #EDE9FF.
-- Supporting icy blue: #8DDCFF.
+Google AI Pro is the preferred research and creative infrastructure where the account's current plan, age eligibility, region, and product terms allow it. The stack remains modular.
 
-The intended character is intelligent, editorial, analytical, and forward-looking. Violet is the signature accent; midnight provides a composed foundation; pale lavender supports legibility; icy blue can identify selected data or secondary information.
+| Department | Preferred tool or system | Purpose |
+|---|---|---|
+| Research | Gemini Deep Research, Google Search, Google Trends | Discover signals and build research briefs |
+| Knowledge | Gemini Notebook / NotebookLM, Drive, GitHub | Preserve source-grounded knowledge |
+| Scripting | Gemini + Google Docs | Develop narrative and drafts |
+| Avatar / identity | Faceless brand graphics; no human avatar | Maintain publication identity |
+| Video | Google Flow / Veo selectively | Supporting cinematic and illustrative footage |
+| Images | Nano Banana Pro where available; Canva | Original illustrations and assets |
+| Voice | Creator-recorded narration | Primary brand voice |
+| Voice specialist | Audacity / Resolve Fairlight; optional Gemini TTS | Audio cleanup and controlled fallback |
+| Screen recording | OBS Studio | Authentic research and interface capture |
+| Editing | DaVinci Resolve | Assembly and final finishing |
+| Programmatic visuals | Remotion, original HTML/CSS/GSAP, SVG | Reusable data-driven motion graphics |
+| Media QA | FFmpeg / ffprobe | Technical validation |
+| Thumbnails | Canva + original visual assets | Platform packaging |
+| Publishing | YouTube Studio, Meta Business Suite, LinkedIn native tools | Human-approved publishing |
+| Distribution | Platform-native formats; newsletter later | Audience reach and owned-audience development |
 
-Test this palette on thumbnails, video frames, charts, timelines, and profile assets before final approval. Logo, typography, colour roles, chart conventions, motion system, and sound identity remain to be defined.
+Plan features, credit allowances, pricing, model access, and regional eligibility change. Verify the live account and official documentation before budgeting. Consumer subscription access does not automatically include unlimited developer API usage.
 
-## Production direction
+See:
+- [AI Production Architecture](production/ai-production-architecture.md)
+- [Visual and Editorial Quality Rules](production/visual-and-editorial-quality.md)
 
-DaVinci Resolve is the primary editing environment. The production ambition is premium visual storytelling and motion graphics. Google Flow may support generated visual footage where appropriate. Codex and other coding agents can assist with research organisation, structured story data, source tracking, charts, timelines, and repetitive production tasks. Remotion is a candidate for programmatic timelines, charts, animated maps, typography, and reusable editorial graphics. FFmpeg may support media processing and quality checks.
+## 6. The production lifecycle
 
-Proposed sequence:
+Signal → audience question → source research → competitor gap analysis → COS score → brand approval → research pack → claim/evidence matrix → editorial brief → script → fact-check → storyboard → narration → visuals → editing → quality assurance → human approval → platform packages → publishing → analytics → corrections and learning.
 
-1. Monitor signals and identify a development worth explaining.
-2. Establish the event and its significance.
-3. Gather primary sources and independent corroboration.
-4. Build a timeline and context map.
-5. Identify competing interpretations and uncertainties.
-6. Write a research brief and central editorial question.
-7. Develop the narrative, script, and storyboard.
-8. Design charts, timelines, diagrams, and supporting visuals.
-9. Edit and finish in DaVinci Resolve.
-10. Review every factual claim, date, chart, attribution, and visual.
-11. Publish with sources and clear framing.
-12. Record audience response and update research if facts change.
+Use shared content IDs such as CA-2026-001.
 
-## Research and signal discovery
+For every episode preserve the meaningful creative journey:
+- Initial idea and audience question.
+- Research prompts and search queries.
+- Sources and extracted evidence.
+- Claim/evidence matrix.
+- Editorial decisions and rejected angles.
+- Script drafts and review feedback.
+- Storyboard versions and revisions.
+- Visual prompts, generated assets, and selection rationale.
+- Editing decisions and production notes.
+- QA results, corrections, published URLs, and analytics.
 
-Potential inputs include official company/product announcements, research papers, technical publications, government and regulatory publications, company filings, reputable journalism, industry reports, expert interviews, public talks, community discussion, search trends, and first-party analytics.
+Commit text, code, manifests, source records, and decision logs. Keep large video files, caches, generated masters, and local project databases outside ordinary Git history; preserve a storage reference or checksum in the asset manifest.
 
-Evaluate each signal for significance beyond novelty, evidence quality, long-term relevance, audience interest, missing context, explainability, and defensible implications. Community discussion can reveal questions and sentiment; it is not proof of factual claims.
+## 7. External repository research
 
-Distinguish a signal worth monitoring from a story ready to publish.
+The [Repository Adoption Matrix](references/repository-adoption-matrix.md) evaluates all 22 repositories listed in the TECHENIGMASTUDIOS repository landscape. It distinguishes patterns to adopt from projects to defer, use as references, or reject.
 
-## Content lifecycle and research trail
+Key decisions:
+- Adopt motion-design principles from [Bang Motion](https://github.com/bangtutorial/bang-motion).
+- Adopt semantic diagram design patterns from [diagram-design](https://github.com/cathrynlavery/diagram-design).
+- Adapt stage gates and production manifests from [Vox Director](https://github.com/Alisa0808/vox-director).
+- Adapt visual continuity and contact-sheet QA patterns from [paint-mv-skills](https://github.com/lintsinghua/paint-mv-skills), without downloading its separately licensed upstream engine.
+- Learn from the source-to-storyboard-to-QA structure of [anything2explainer](https://github.com/Vincentwei1021/anything2explainer), but do not reuse its PolyForm Noncommercial code/templates for commercial work without authorisation.
+- Reject engagement bots, scraping, unofficial private APIs, and duplicate project-management infrastructure.
 
-Signal → triage → source collection → timeline/context map → analysis → editorial brief → script → fact-check → visual plan → production → review → publish → update/analytics.
+## 8. Creator-OS integration
 
-Use IDs such as CA-YYYY-NNN. Each item should keep:
-- editorial brief
-- event timeline
-- research notes
-- source register
-- claim/evidence matrix
-- analysis and uncertainties
-- script and storyboard
-- visual/data manifest
-- editing notes
-- publishing package
-- post-publication update
+[Creator-OS](https://github.com/worksomaganesh/Creator-OS) is the shared operating layer for brand routing, common schemas, reusable skills, production handoffs, quality gates, and cross-brand operating conventions.
 
-Suggested statuses: signal, monitoring, researching, source-review, analysis, briefed, writing, fact-check, ready-for-production, producing, review, scheduled, published, update-needed, archived.
+This repository owns CONTXT AHEAD's positioning, editorial rules, market research, topic decisions, episode research, scripts, visual decisions, corrections, and audience learning.
 
-## Repository architecture
+See [Creator-OS Integration](references/creator-os-integration.md).
 
-This repository should evolve into:
+## 9. Growth and business
 
-- **brand/** — positioning, audience, voice, identity, editorial standards.
-- **research/** — signal tracking, source library, reports, papers, company research, fact-checks.
-- **timelines/** — event histories and chronology.
-- **analysis/** — industry maps, scenario analysis, implications, research briefings.
-- **content-strategy/** — pillars, series, topic backlog, editorial calendar.
-- **content/** — briefs, scripts, explainers, publishing packages.
-- **production/** — storyboards, data visualisation, motion graphics, editing SOPs.
-- **assets/** — approved lightweight editorial assets, charts, maps, templates.
-- **skills/** — research, source verification, timeline building, analysis, scripting, publication QA.
-- **automation/** — source/claim management, chart preparation, content workflow scripts.
-- **analytics/** — performance, experiments, audience feedback.
-- **references/** — external projects and architecture evaluations.
+Starting publishing cadence:
+- Two original short videos per week.
+- Each distributed on YouTube Shorts and Instagram Reels with platform-specific packaging.
+- One LinkedIn research post or carousel per week.
+- One 5–9-minute YouTube explainer per month only after the short-form workflow is stable.
 
-Large media, generated footage, raw recordings, caches, and final masters belong in local or suitable media storage, not ordinary Git history.
+First 30-day experiment:
+- Eight original short videos.
+- Four LinkedIn posts/carousels.
+- Test hooks, storytelling structures, and visual formats.
+- Review demand, retention, relevant comments, returning viewers, and production time.
 
-## AI-assisted research and production architecture
+Potential independent media revenue:
+1. Free weekly Ahead Brief newsletter.
+2. Relevant, clearly disclosed sponsorships.
+3. Research reports and career/skills intelligence products.
+4. Membership, briefings, events, and research partnerships after demand is demonstrated.
 
-1. **Signal discovery:** collect possible developments and questions.
-2. **Source acquisition:** gather primary and independent sources.
-3. **Evidence organisation:** extract claims, dates, entities, and source references.
-4. **Context construction:** build timelines, stakeholder maps, and background notes.
-5. **Analysis:** identify mechanisms, incentives, implications, alternative interpretations, and uncertainty.
-6. **Creative layer:** create the editorial angle, hook, narrative, script, and platform adaptations.
-7. **Structured handoff:** pass a story specification with source IDs, claims, visuals, and narration to production.
-8. **Visual production:** create timelines, charts, diagrams, motion graphics, and edits.
-9. **Human editorial review:** verify claims and ensure visuals do not imply unsupported conclusions.
-10. **Updates and feedback:** monitor material corrections and audience questions.
+See [Growth, Monetisation, Analytics, and Creator OS](analytics/growth-and-creator-os.md).
 
-Repositories previously evaluated for selective inspiration:
-- [Vyral Content Skills](https://github.com/vyralcontent/content-skills) — creative ideation, hooks, platform-specific structures, captions, and CTAs.
-- [Verticals / YouTube Shorts Pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) — modular research-to-video pipeline concepts.
-- [YT Short Clipper](https://github.com/jipraks/yt-short-clipper) — clip workflow ideas.
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — automated short-video production architecture.
-- [Remotion Superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) and [Remotion](https://github.com/remotion-dev/remotion) — agent-assisted programmatic video creation.
-- [Instagram Agent Skill](https://github.com/jakeschincariol/instagram-agent-skill) — platform workflow ideas.
+## 10. Repository map
 
-These are references to inspect and adapt selectively, not automatic dependencies. Review licences, attribution, maintenance, security, and suitability before reuse.
+- brand/ — canonical positioning and machine-readable brand adapter.
+- research/ — market opportunity, competitive intelligence, and topic scoring.
+- content/ — editorial pillars, series, and content planning.
+- production/ — AI tool stack, visual system, and production QA.
+- analytics/ — growth, publishing, monetisation, analytics, and Creator OS dashboard.
+- references/ — repository evaluation and Creator-OS integration rules.
 
-## Agent skills to develop
+Episode-specific research, scripts, storyboards, production journals, and analytics should be added under the relevant directories using stable content IDs.
 
-Potential skills include technology signal monitor, source researcher, source-quality evaluator, event timeline builder, company/ecosystem researcher, research-paper explainer, claim-to-evidence mapper, stakeholder/incentive analyst, implications/scenario analyst, uncertainty auditor, context-first scriptwriter, data-visualisation planner, citation auditor, and post-publication update assistant.
-
-Agents must not invent sources, dates, quotations, statistics, or causal relationships. They must preserve uncertainty and expose missing evidence.
-
-## Measurement
-
-Audience metrics may include reach, retention, average view duration, completion, rewatch behaviour, saves, shares, meaningful discussion, follower conversion, click-through, and returning viewers.
-
-Editorial quality questions:
-- Did the piece add context beyond the headline?
-- Were primary sources used where available?
-- Were dates and chronology correct?
-- Were facts separated from analysis?
-- Were alternative interpretations considered?
-- Were forecasts labelled and uncertainty explained?
-- Did visuals accurately represent evidence?
-- Did audience questions reveal missing context?
-
-If a material fact changes after publication, preserve a correction/update record rather than silently rewriting history.
-
-## Separation from the other brands
-
-- **TECHENIGMASTUDIOS:** teaches how technology works and how to learn it.
-- **AI That Works:** demonstrates how technology can solve practical problems.
-- **ContextAhead:** explains why developments matter and how they connect to wider industry, economic, and societal changes.
-
-For AI agents: TECHENIGMASTUDIOS explains architecture; AI That Works builds and tests a workflow; ContextAhead examines implications for software economics, business models, and work. Each needs its own editorial question, evidence, narrative, and viewer outcome.
-
-## Operating principles
+## 11. Operating principles
 
 1. Context before conclusion.
 2. Primary evidence before confident interpretation.
 3. Chronology matters.
 4. Attribute claims to their source.
-5. Separate fact, analysis, scenario, and speculation.
+5. Separate fact, attributed claim, analysis, scenario, and speculation.
 6. Preserve uncertainty.
-7. Use faithful charts and visualisations.
+7. Use accurate, readable visualisations.
 8. Keep source records attached to content.
 9. Correct material errors transparently.
 10. Keep private information, credentials, and large media out of Git.
-
-## Current decisions and open questions
-
-**Established direction:** context-first technology intelligence; explain developments and wider significance; distinct from tutorials and hands-on AI implementation; premium visual storytelling; DaVinci Resolve as primary editor; Google Flow as a possible supporting visual tool; AI-assisted research and production.
-
-**Leading visual proposal:** #7657FF violet, #151426 midnight, #EDE9FF lavender, and #8DDCFF icy blue. This remains a proposal pending visual tests and explicit approval.
-
-**To validate:** primary audience, editorial scope beyond technology/AI, pillar allocation, presenter/face format, narration mix, platform priorities, publishing cadence, final identity, and research/verification tooling.
-
-This README records the known direction. Update it as explicit decisions are made and publishing evidence accumulates.
+11. Preserve human review before publishing.
+12. Reuse Creator-OS infrastructure without flattening the brand's identity.
 
 ---
 
