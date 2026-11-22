@@ -28,6 +28,21 @@ Research already discussed in the strategy includes:
 
 These are useful starting signals, not proof that CONTXT AHEAD has an uncontested audience. Before publishing any statistic, retrieve the original report, verify the exact wording, geography, sample, publication date, and limitations, then save it in the source register.
 
+
+## 2A. Primary evidence register (verified links)
+
+The following sources support the initial market thesis. They are **market signals**, not proof of an unserved audience or guaranteed content performance.
+
+| Publisher | Evidence to inspect | Why it matters | Limitations to preserve |
+|---|---|---|---|
+| [World Economic Forum — Future of Jobs Report 2025, Skills Outlook](https://www.weforum.org/publications/the-future-of-jobs-report-2025/3-skills-outlook) | Employers expect 39% of workers' core skills to change by 2030; AI and big data, networks and cybersecurity, technological literacy, analytical thinking, and human capabilities feature in the skills outlook. | Supports stories about changing skill expectations and lifelong learning. | Employer expectations, not a precise forecast for every worker, country, or occupation. Check the report's sample and methodology before quoting. |
+| [OECD — AI and skills: What we know so far (5 June 2026)](https://www.oecd.org/en/publications/ai-and-skills_f843b352-en/full-report.html) | The OECD says fewer than 1% of workers need advanced AI skills, while broader digital, data, managerial, problem-solving, creativity, and innovation skills matter across workplaces. | Supports a wider AI-literacy and work-readiness narrative rather than a specialist-only AI career channel. | The figure is an OECD synthesis; inspect the underlying definitions and evidence before using it as a universal statistic. |
+| [International Labour Organization — Changing landscape of skills in the age of AI (13 August 2026)](https://www.ilo.org/publications/changing-landscape-skills-age-ai) | Discusses rising demand for cognitive, socio-emotional, digital, data, and AI skills, with AI literacy, adaptability, resilience, and human agency important. | Supports analysis of complementary human and technical capabilities. | Covers broad occupational patterns; do not claim every skill has equal demand in every job or region. |
+| [LinkedIn — Data shows where opportunity is emerging as work changes (27 October 2026)](https://news.linkedin.com/2026/linkedin-data-shows-where-opportunity-is-emerging-as-work-changes) | LinkedIn reports a roughly 65% increase in the share of job postings requiring AI-literacy skills over the last 12 months; it also reports 55% year-over-year growth in entry-level AI Engineer hiring in India for July–September 2026. | Supports investigation of AI literacy beyond specialist jobs and regional differences in emerging roles. | LinkedIn platform/network data is not the entire labour market. Record geography, time window, definitions, and the fact that these are LinkedIn-reported results. |
+| [OECD — Full report](https://www.oecd.org/en/publications/ai-and-skills_f843b352-en/full-report.html) and [policy brief PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/ai-and-skills_8dbed5fe/f843b352-en.pdf) | Underlying analysis and policy recommendations about skills, AI adoption, and work. | Useful for deeper verification beyond social posts and summaries. | Read the report itself; do not rely on a search snippet or secondary quote. |
+
+**Citation rule:** Every published statistic must be re-opened from its original report at scripting time. Save the exact table/figure/page, publication date, geography, sample, unit, and wording in the episode's source register and claim/evidence matrix. Event date and publication date must remain distinct.
+
 ## 3. Competitor supply map
 
 Study competitors by editorial territory, not follower count alone.
