@@ -37,10 +37,12 @@ Use the subscription for the capabilities actually available to the account:
 - Google Drive, Docs, and Sheets for the operating system.
 - Google Antigravity where the account's plan, age, and regional eligibility permit agent-assisted coding or workflow development.
 
-As checked on 22 November 2026, Google's India AI Pro subscription page lists 1,000 monthly Google Flow credits and expanded access to Gemini, Flow, Gemini Notebook, AI Studio, and other features. Flow's own help documentation describes a daily free-credit allowance plus subscription credits; generation cost depends on the model and tool. Verify the live account UI and current terms before budgeting a production batch:
+As checked on 22 November 2026, Google's India subscription page lists Google AI Pro at ₹1,950/month, 4x higher usage access than the free tier, 1,000 Google Flow credits, expanded Gemini Notebook access (listed as 5x more Audio Overviews/notebooks), entry rate limits for Google Antigravity, and 5 TB storage. The page describes Gemini app access and Google Flow access; exact model availability and feature limits can change. Check the live account before depending on a feature:
 - https://gemini.google/in/subscriptions/?hl=en-IN
 - https://support.google.com/flow/answer/16526234
 - https://labs.google/fx/tools/flow
+
+**Important:** Google AI Pro consumer subscription benefits are not the same as Gemini Developer API billing. API usage, including TTS or production automation, is governed by the current developer pricing and billing terms. Check https://ai.google.dev/gemini-api/docs/pricing before using API features at scale.
 
 Do not hard-code plan pricing, credit consumption, model availability, or feature access into the production process. These can change by country, account, age eligibility, product, and date.
 
